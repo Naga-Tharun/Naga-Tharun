@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Naga Tharun 👋
 
-<!--
-**Naga-Tharun/Naga-Tharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 2+ years of backend experience. I build backends, full-stack web apps, and iOS apps. I like problems where the *why* matters as much as the *how* — turning fuzzy requirements into systems that hold up in production.
 
-Here are some ideas to get you started:
+#### Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C#, Swift, JavaScript / TypeScript, Java, C++, Python, PL/SQL  
+**Backend:** Node.js, .NET, REST APIs, MongoDB, MySQL  
+**Frontend:** AngularJS, React, SwiftUI  
+**Infra & tools:** DigitalOcean, Azure, Git, Docker, Socket.io, JWT
+
+#### Education
+
+**B.Tech, Computer Science** — Mahindra University (2020 – 2024)  
+GPA 8.93 · Merit Scholarship recipient 2021–2024 (top 10 in CSE batch)
+
+#### Certifications
+
+- Microsoft Certified: Azure Fundamentals (2025)
+
+#### Find me
+
+- LinkedIn: [naga-tharun-makkena](https://www.linkedin.com/in/naga-tharun-makkena/)
+- Portfolio: *coming soon*
