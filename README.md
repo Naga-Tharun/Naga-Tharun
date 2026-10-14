@@ -2,13 +2,12 @@
 
 I build things that have to keep running — APIs, real-time systems, the odd app that lives in someone's pocket.
 
-**On the workbench**
-🧾 **Expense-Split-Manager** — iOS expense-splitting app. Swift, SwiftUI, SwiftData, Siri Shortcuts.
-🤖 **COBOT-VR-Teleoperation** — WebXR control of a Fairino FR5 cobot from a Meta Quest 3. Python, WebSockets.
+**On the workbench** 🧾 **Expense-Split-Manager** - iOS expense-splitting app. Swift, SwiftUI, SwiftData, Siri Shortcuts.
 
 **Worth a look** *(pinned below)*
 - **AuxHive** — real-time auction platform. Express + WebSockets backend, Angular frontend.
 - **Unagi** — multiplayer trivia with live rooms and scoring. Node.js, Socket.io, MongoDB.
+- **COBOT-VR-Teleoperation** — WebXR control of a Fairino FR5 cobot from a Meta Quest 3. Python, WebSockets.
 
 **Stack I reach for**
 - **Languages** — C#, Swift, JavaScript / TypeScript, Java, C++, Python, PL/SQL
